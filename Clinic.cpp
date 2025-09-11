@@ -230,7 +230,7 @@ public:
 };
 
 // ===============================
-// MENU FUNCTION
+// Hàm Menu
 // ===============================
 void showMenu() {
     cout << "\n========= CLINIC MANAGEMENT SYSTEM =========\n";
@@ -409,4 +409,5 @@ int main() {
 
     cout << "Exiting program...\n";
     return 0;
+
 }
