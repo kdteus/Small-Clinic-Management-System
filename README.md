@@ -30,14 +30,13 @@ g++ smallclinic.cpp -o clinic
 ### On Windows
 ```bash
 g++ smallclinic.cpp -o clinic.exe
-clinic.exe
+.\clinic.exe
 ```
 
 ## 🤖AI Disclosure
 Author: Khong Dinh Tu-24110145 
 Used ChatGPT for brainstorming ideas (e.g., methods for Appointment, how to override virtual functions, and improving code readability).
 All code has been understood, tested, and personalized before submission.
-## Reflection
 ## 📝 Reflection
 Working on this Clinic Management System gave me hands-on experience with **core OOP principles** in a practical context.  
 
